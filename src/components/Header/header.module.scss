@@ -1,0 +1,25 @@
+// header.module.scss
+
+.logo {
+    display: flex;
+    align-items: center;
+    padding-right: 20px;
+    margin-left:25px;
+  }
+  
+  .title {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+  }
+  
+
+  .link {
+    margin-right: 15px;
+    font-family:"sans-serif";
+  }
+  
+  .link:hover {
+    color: #ffd700;
+  }
+  

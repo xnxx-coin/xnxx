@@ -1,0 +1,10 @@
+.cursor {
+    position: fixed;
+    height: 50px;
+    width: 50px;
+    background-image: url("/Assets/Cursor/dildo.png");
+    background-size: cover;
+    transform: translate(-50%, -50%) rotate(40deg);
+    pointer-events: none;
+    z-index: 9999;
+}

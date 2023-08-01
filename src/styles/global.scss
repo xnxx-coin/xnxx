@@ -1,0 +1,34 @@
+@font-face {
+  font-family: 'PaytoneOne';
+  src: url('/Assets/Fonts/PaytoneOne-Regular.ttf') format('truetype');
+}
+
+
+@font-face {
+  font-family: 'gooey';
+  src: url('/Assets/Fonts/gooey.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'x';
+  src: url('/Assets/Fonts/SpecialAlphabetsP04.otf') format('opentype');
+}
+
+
+@font-face {
+  font-family: 'notepad';
+  src: url('/Assets/Fonts/Lucida Console Regular.ttf') format('truetype');
+}
+
+
+body, html {
+  font-family: sans-serif;
+  overflow-x: hidden;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  cursor: none !important;
+}
