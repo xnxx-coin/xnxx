@@ -37,7 +37,7 @@ const About = () => {
             sx={{marginTop:{xl:"150px", lg:"100px", md:"50px"}}}
           >
             <Typography sx={{fontFamily:"verdana"}} variant="body1">
-              Following the rebranding of Twitter as X.com, many users made the association between "X" and prominent pornographic site domains. Subsequently, an explosion of X-rated memes were posted and memetic power was generated. </Typography>
+              Following the rebranding of Twitter as X.com, many users made the association between &quot;X&quot; and prominent pornographic site domains. Subsequently, an explosion of X-rated memes were posted and memetic power was generated. </Typography>
             <Typography sx={{fontFamily:"verdana"}} variant="body1" marginTop={2}>
               XNXX coin brings together degenerate shitcoin investors, coomers, and Elon Musk fans while capitalising off of the recent Twatter re-brand.
             </Typography>
