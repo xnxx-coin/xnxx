@@ -28,10 +28,10 @@ const Footer = () => {
           © {new Date().getFullYear()} XNXX Coin Official
         </Typography>
         <Box sx={{display: 'flex', justifyContent: 'center', marginTop: '10px'}}>
-          <Link sx={{fontFamily:"verdana", marginRight: '15px'}} href="#" color="inherit" underline="none">
+          <Link sx={{fontFamily:"verdana", marginRight: '15px'}} href="https://twitter.com/XNXX_Coin" color="inherit" underline="none">
             <Typography variant="body2">Twitter</Typography>
           </Link>
-          <Link sx={{fontFamily:"verdan"}} href="#" color="inherit" underline="none">
+          <Link sx={{fontFamily:"verdan"}} href="https://t.me/XNXXBSC69" color="inherit" underline="none">
             <Typography variant="body2">Telegram</Typography>
           </Link>
         </Box>

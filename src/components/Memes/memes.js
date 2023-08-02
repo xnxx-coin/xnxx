@@ -31,6 +31,7 @@ const Memes = () => {
     <Typography variant="h2" align="center" sx={{fontFamily:"x", marginBottom:"50px"}}>
         <u>MEMES</u>
     </Typography>
+
     {/* <Typography variant="h6" align="center" sx={{fontFamily:"PaytoneOne", marginTop:"25px", marginBottom:"50px"}}>
         Below is a pastiche of art and memes that help to encapsulate what XNXX coin is about.
     </Typography> */}

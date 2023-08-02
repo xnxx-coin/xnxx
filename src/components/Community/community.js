@@ -3,6 +3,8 @@ import { Box, Typography } from '@mui/material';
 import Image from 'next/image';
 import TwitterIcon from '@mui/icons-material/Twitter';
 import TelegramIcon from '@mui/icons-material/Telegram';
+import Link from '@mui/material/Link';
+
 
 const Community = () => {
   return (
@@ -43,20 +45,22 @@ const Community = () => {
         textAlign={{ xs: 'center', md: 'start' }}
       >
 <Box display="flex" flexDirection="column" alignItems="center" marginBottom={2}>
+    <Box bgcolor="darkblue" borderRadius="50%" p={0} color="white" display="flex" alignItems="center" justifyContent="center" width={120} height={60} component="a" target="_blank" href="https://twitter.com/XNXX_Coin" rel="noopener noreferrer">
     <Box bgcolor="darkblue" borderRadius="50%" p={0} color="white" display="flex" alignItems="center" justifyContent="center" width={120} height={60}>
         <TwitterIcon fontSize="large" />
         <Typography variant="h5" component="span" style={{ marginLeft: '10px' }}>
             Twitter
         </Typography>
     </Box>
-    <Box bgcolor="darkblue" borderRadius="50%" p={0} color="white" display="flex" alignItems="center" justifyContent="center" width={120} height={60} style={{ marginTop: '10px' }}>
+    </Box>
+    <Box bgcolor="darkblue" borderRadius="50%" p={0} color="white" display="flex" alignItems="center" justifyContent="center" width={120} height={60} component="a" target="_blank" href="https://t.me/XNXXBSC69" rel="noopener noreferrer" style={{ marginTop: '10px' }}>
         <TelegramIcon sx={{marginLeft:"22px"}} fontSize="large" />
-        <Typography variant="h5" component="span" style={{ marginLeft: '10px' }}>
+        <Typography  variant="h5" component="span" style={{ marginLeft: '10px' }}>
             Telegram
         </Typography>
     </Box>
 </Box> <Typography variant="h4" gutterBottom>
-          Join our community of wankers!
+          Join our community of COOMERS!
         </Typography>
       </Box>
     </Box>
