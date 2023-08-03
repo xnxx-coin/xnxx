@@ -79,7 +79,7 @@ And I guarantee every coin you “invested” in prior to XNXX has blown their l
                             </Grid>
                         {fileNames.map((fileName, index) => (
                             <Grid item xs={12} sm={6} md={4} lg={3} key={index}>
-                                <Image src={`/Assets/memes/${fileName}`} alt={fileName} layout="responsive" width={500} height={300} />
+                                <Image src={`/Assets/Memes/${fileName}`} alt={fileName} layout="responsive" width={500} height={300} />
                             </Grid>
                         ))}
                     </Grid>

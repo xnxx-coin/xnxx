@@ -23,17 +23,17 @@ const Buy = () => {
   <Typography variant="body1" align="left" sx={{paddingTop:"20px", width:"80%", lineHeight:"2"}}>
     <b>How to Buy:</b>
     <br/>
-    1) Download the Metamask extension and create an account at <a href="https://metamask.io/" target="_blank" rel="noreferrer" style={{color:"white"}}>MetaMask.io</a>.
+    1. Download the Metamask extension and create an account at <a href="https://metamask.io/" target="_blank" rel="noreferrer" style={{color:"white"}}>MetaMask.io</a>.
     <br/>
-    2) Add the Binance Smart Chain to your MetaMask following the guide at <a href="https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain" target="_blank" rel="noreferrer" style={{color:"white"}}>Binance Academy: Connecting Metamask</a>.
+    2. Add the Binance Smart Chain to your MetaMask following the guide at <a href="https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain" target="_blank" rel="noreferrer" style={{color:"white"}}>Binance Academy: Connecting Metamask</a>.
     <br/>
-    3) Switch your MetaMask network to use the Binance Smart Chain and add some BNB to your MetaMask address.
+    3. Switch your MetaMask network to use the Binance Smart Chain and add some BNB to your MetaMask address.
     <br/>
-    4) Navigate to PancakeSwap or another DEX and input the XNXX contract address.
+    4. Navigate to PancakeSwap or another DEX and input the XNXX contract address.
     <br/>
-    5) Set your slippage tolerance and the amount you want to swap, then confirm the swap.
+    5. Set your slippage tolerance and the amount you want to swap, then confirm the swap.
     <br/>
-    6) Confirm the transaction in MetaMask.
+    6. Confirm the transaction in MetaMask.
   </Typography>
 </div>
 
