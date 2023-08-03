@@ -37,26 +37,26 @@ const Header = () => {
           </Box> */}
           {isMobile ? (
     <Box className={styles["title"]}>
-    <Link className={styles["link-cope"]} href="#about" color="inherit" underline="none">
+    <Link className={styles["link-cope"]} style={{marginRight:"15px"}} href="#about" color="inherit" underline="none">
         <Typography sx={{fontFamily:"x", paddingBottom:"5px", borderBottom: "solid 2px transparent", '&:hover': {borderBottom: "solid 2px white"}}} variant="body1">ABOUT</Typography>
     </Link>
-    <Link className={styles["link-cope"]}  href="#sexonomics" color="inherit" underline="none">
+    <Link className={styles["link-cope"]} style={{marginRight:"15px"}}  href="#sexonomics" color="inherit" underline="none">
         <Typography sx={{fontFamily:"x", paddingBottom:"5px", borderBottom: "solid 2px transparent", '&:hover': {borderBottom: "solid 2px white"}}}variant="body1">SEXONOMICS</Typography>
     </Link>
-    <Link className={styles["link-cope"]}  href="#roadmap" color="inherit" underline="none">
+    <Link className={styles["link-cope"]} style={{marginRight:"15px"}}  href="#roadmap" color="inherit" underline="none">
         <Typography sx={{fontFamily:"x", paddingBottom:"5px", borderBottom: "solid 2px transparent", '&:hover': {borderBottom: "solid 2px white"}}} variant="body1">ROADMAP</Typography>
     </Link>
-    <Link className={styles["link-cope"]} href="#buy" color="inherit" underline="none">
+    <Link className={styles["link-cope"]} style={{marginRight:"15px"}} href="#buy" color="inherit" underline="none">
   <Typography sx={{fontFamily:"x", paddingBottom:"5px", borderBottom: "solid 2px transparent", '&:hover': {borderBottom: "solid 2px white"}}} variant="body1">BUY</Typography>
 </Link>
 
-    <Link className={styles["link-cope"]}  href="#nfts" color="inherit" underline="none">
+    <Link className={styles["link-cope"]} style={{marginRight:"15px"}}  href="#nfts" color="inherit" underline="none">
         <Typography sx={{fontFamily:"x", paddingBottom:"5px", borderBottom: "solid 2px transparent", '&:hover': {borderBottom: "solid 2px white"}}} variant="body1">NFTs</Typography>
     </Link>
-    <Link className={styles["link-cope"]}  href="#community" color="inherit" underline="none">
+    <Link className={styles["link-cope"]} style={{marginRight:"15px"}}  href="#community" color="inherit" underline="none">
         <Typography sx={{fontFamily:"x", paddingBottom:"5px", borderBottom: "solid 2px transparent", '&:hover': {borderBottom: "solid 2px white"}}} variant="body1">COMMUNITY</Typography>
     </Link>
-    <Link className={styles["link-cope"]}  href="#memes" color="inherit" underline="none">
+    <Link className={styles["link-cope"]} style={{marginRight:"15px"}}  href="#memes" color="inherit" underline="none">
         <Typography sx={{fontFamily:"x", paddingBottom:"5px", borderBottom: "solid 2px transparent", '&:hover': {borderBottom: "solid 2px white"}}} variant="body1">MEMES</Typography>
     </Link>
 </Box>
