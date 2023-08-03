@@ -16,9 +16,9 @@ const Memes = () => {
         "coomer - pornhub vs xnxx.png",
         "elon musk - goth.png",
         "type of person.png",
-        "sticker 2- chad XNXX coin holder.png",
-        "sticker 4 - Resisting the urge.png",
-        "sticker 5 - Peter Thiel and Elon Musk.png",
+        "sticker2.png",
+        "sticker4.png",
+        "sticker5.png",
         "sticker 6 - porn meme.png",
         "ass.png",
         "coomer - instant gratification.png"
