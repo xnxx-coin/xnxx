@@ -17,23 +17,15 @@ const Buy = () => {
             <u>BUY</u>
           </Typography>
           <div style={{backgroundColor:"#000090", alignItems:"center", display:"flex", justifyContent:"center"}}>
-            <Typography variant="h6"><b>Contract Address:</b></Typography>
+            <Typography variant="h6"><b>Contract Address: tkxs8g52pV8D1hCrszQeNab2pBJMA7oGNYzKeoYCGU9</b></Typography>
           </div>
           <div style={{display: 'flex', justifyContent: 'center'}}>
   <Typography variant="body1" align="left" sx={{paddingTop:"20px", width:"80%", lineHeight:"2"}}>
     <b>How to Buy:</b>
     <br/>
-    1. Download the Metamask extension and create an account at <a href="https://metamask.io/" target="_blank" rel="noreferrer" style={{color:"white"}}>MetaMask.io</a>.
+    1. Download a Solana compatible wallet such as Phantom <a href="https://phantom.app/download" target="_blank" rel="noreferrer" style={{color:"white"}}>phantom.app/download</a>.
     <br/>
-    2. Add the Binance Smart Chain to your MetaMask following the guide at <a href="https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain" target="_blank" rel="noreferrer" style={{color:"white"}}>Binance Academy: Connecting Metamask</a>.
-    <br/>
-    3. Switch your MetaMask network to use the Binance Smart Chain and add some BNB to your MetaMask address.
-    <br/>
-    4. Navigate to PancakeSwap or another DEX and input the XNXX contract address.
-    <br/>
-    5. Set your slippage tolerance and the amount you want to swap, then confirm the swap.
-    <br/>
-    6. Confirm the transaction in MetaMask.
+    2. Visit the following link on Raydium exchange <a href="" target="_blank" rel="noreferrer" style={{color:"white"}}>BUY here</a>.
   </Typography>
 </div>
 
