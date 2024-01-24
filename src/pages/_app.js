@@ -89,8 +89,8 @@ export default function App({ Component, pageProps }) {
 
     return (
         <>            <Helmet>
-        <title>XNXX Coin</title>
-        <meta name="description" content="Free porn, sex, NFTs and crypto!" />
+        <title>LanaRhoadesMiaKhalifa69Inu</title>
+        <meta name="description" content="Stay focused!" />
         {/* Add more head tags as required */}
     </Helmet>
             <CursorTrail/>
