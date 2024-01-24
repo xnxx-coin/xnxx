@@ -17,7 +17,7 @@ const About = () => {
 
         <Grid item xs={8} sm={8} md={3} lg={3} xl={2}>
           <Box marginRight={{ md: 5, lg:0 }}>
-          <Link href="https://raydium.io/" target="_blank">
+          <Link href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=tkxs8g52pV8D1hCrszQeNab2pBJMA7oGNYzKeoYCGU9&outputSymbol=XNXX&fixed=in" target="_blank">
             <Image 
               src="/Assets/Images/this-ugly-son-of-a-bitch.png" 
               alt="About Us Image"
