@@ -12,16 +12,16 @@ const Memes = () => {
     }, []);
 
     const fileNames = [
-        "stay-focused.png",
-        "coomer - pornhub vs xnxx.png",
-        "elon musk - goth.png",
-        "type of person.png",
-        "sticker2.png",
-        "sticker4.png",
-        "sticker5.png",
-        "sticker 6 - porn meme.png",
-        "ass.png",
-        "coomer - instant gratification.png"
+        "stay-focused.webp",
+        "coomer - pornhub vs xnxx.webp",
+        "elon musk - goth.webp",
+        "type of person.webp",
+        "sticker2.webp",
+        "sticker4.webp",
+        "sticker5.webp",
+        "sticker 6 - porn meme.webp",
+        "ass.webp",
+        "coomer - instant gratification.webp"
     ];
 
     return (
