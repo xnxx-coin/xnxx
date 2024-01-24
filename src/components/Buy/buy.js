@@ -25,7 +25,7 @@ const Buy = () => {
     <br/>
     1. Download a Solana compatible wallet such as Phantom <a href="https://phantom.app/download" target="_blank" rel="noreferrer" style={{color:"white"}}>phantom.app/download</a>.
     <br/>
-    2. Visit the following link on Raydium exchange <a href="" target="_blank" rel="noreferrer" style={{color:"white"}}>BUY here</a>.
+    2. Visit the following link on Raydium exchange <a href="https://raydium.io/swap/?inputCurrency=sol&outputCurrency=tkxs8g52pV8D1hCrszQeNab2pBJMA7oGNYzKeoYCGU9&outputSymbol=XNXX&fixed=in" target="_blank" rel="noreferrer" style={{color:"white"}}>BUY here</a>.
   </Typography>
 </div>
 
