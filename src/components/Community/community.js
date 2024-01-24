@@ -45,7 +45,7 @@ const Community = () => {
         textAlign={{ xs: 'center', md: 'start' }}
       >
 <Box display="flex" flexDirection="column" alignItems="center" marginBottom={2}>
-    <Box bgcolor="darkblue" borderRadius="50%" p={0} color="white" display="flex" alignItems="center" justifyContent="center" width={120} height={60} component="a" target="_blank" href="https://twitter.com/XNXX_Coin" rel="noopener noreferrer">
+    <Box bgcolor="darkblue" borderRadius="50%" p={0} color="white" display="flex" alignItems="center" justifyContent="center" width={120} height={60} component="a" target="_blank" href="https://twitter.com/XNXX_SOL" rel="noopener noreferrer">
     <Box bgcolor="darkblue" borderRadius="50%" p={0} color="white" display="flex" alignItems="center" justifyContent="center" width={120} height={60}>
         <TwitterIcon fontSize="large" />
         <Typography variant="h5" component="span" style={{ marginLeft: '10px' }}>
@@ -53,7 +53,7 @@ const Community = () => {
         </Typography>
     </Box>
     </Box>
-    <Box bgcolor="darkblue" borderRadius="50%" p={0} color="white" display="flex" alignItems="center" justifyContent="center" width={120} height={60} component="a" target="_blank" href="https://t.me/XNXXBSC69" rel="noopener noreferrer" style={{ marginTop: '10px' }}>
+    <Box bgcolor="darkblue" borderRadius="50%" p={0} color="white" display="flex" alignItems="center" justifyContent="center" width={120} height={60} component="a" target="_blank" href="https://t.me/xnxx690000" rel="noopener noreferrer" style={{ marginTop: '10px' }}>
         <TelegramIcon sx={{marginLeft:"22px"}} fontSize="large" />
         <Typography  variant="h5" component="span" style={{ marginLeft: '10px' }}>
             Telegram
