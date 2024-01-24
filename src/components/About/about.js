@@ -1,6 +1,7 @@
 import * as React from 'react';
 import { Box, Typography, Grid } from '@mui/material';
 import Image from 'next/image';
+import Link from 'next/link';
 
 const About = () => {
   return (
@@ -16,6 +17,7 @@ const About = () => {
 
         <Grid item xs={8} sm={8} md={3} lg={3} xl={2}>
           <Box marginRight={{ md: 5, lg:0 }}>
+          <Link href="https://raydium.io/" target="_blank">
             <Image 
               src="/Assets/Images/this-ugly-son-of-a-bitch.png" 
               alt="About Us Image"
@@ -24,6 +26,7 @@ const About = () => {
               objectFit="contain"
               style={{marginTop:"25px", marginBottom:"25px"}} 
             />
+            </Link>
           </Box>
         </Grid>
 
@@ -39,7 +42,7 @@ const About = () => {
             <Typography sx={{fontFamily:"verdana"}} variant="body1">
               Following the rebranding of Twitter as X.com, many users made the association between &quot;X&quot; and prominent pornographic site domains. Subsequently, an explosion of X-rated memes were posted and memetic power was generated. </Typography>
             <Typography sx={{fontFamily:"verdana"}} variant="body1" marginTop={2}>
-              XNXX coin brings together degenerate shitcoin investors, coomers, and Elon Musk fans while capitalising off of the recent Twatter re-brand.
+              XNXX [LanaRhoadesMiaKhalifa69Inu] coin brings together degenerate shitcoin investors, coomers, and Elon Musk fans while capitalising off of the recent Twatter re-brand.
             </Typography>
           </Box>
         </Grid>
