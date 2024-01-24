@@ -25,7 +25,7 @@ const Footer = () => {
           This is a generic footer content.
         </Typography> */}
         <Typography sx={{fontFamily:"verdana", marginTop: '10px'}} variant="body2" color="inherit" align="center">
-          © {new Date().getFullYear()} XNXX Coin Official
+          © {new Date().getFullYear()} LanaRhoadesMiaKhalifa69Inu Official
         </Typography>
         <Box sx={{display: 'flex', justifyContent: 'center', marginTop: '10px'}}>
           <Link sx={{fontFamily:"verdana", marginRight: '15px'}} href="https://twitter.com/XNXX_Coin" color="inherit" underline="none">
