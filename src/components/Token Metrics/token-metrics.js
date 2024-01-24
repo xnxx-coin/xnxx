@@ -28,19 +28,11 @@ const TokenMetrics = () => {
                                 </ListItem>
                                 <ListItem>
                                     <ListItemIcon><CheckCircleIcon color="primary" /></ListItemIcon>
-                                    <ListItemText primary="Exchange Wallet + Airdrops + Burns: 10%" sx={{color:"white", fontFamily:"PaytoneOne"}} />
-                                </ListItem>
-                                <ListItem>
-                                    <ListItemIcon><CheckCircleIcon color="primary" /></ListItemIcon>
-                                    <ListItemText primary="Liquidity Pool: 90%" sx={{color:"white", fontFamily:"PaytoneOne"}} />
-                                </ListItem>
-                                <ListItem>
-                                    <ListItemIcon><CheckCircleIcon color="primary" /></ListItemIcon>
                                     <ListItemText primary="Contract Renounced" sx={{color:"white", fontFamily:"PaytoneOne"}} />
                                 </ListItem>
                                 <ListItem>
                                     <ListItemIcon><CheckCircleIcon color="primary" /></ListItemIcon>
-                                    <ListItemText primary="Tax: 4%" sx={{color:"white", fontFamily:"PaytoneOne"}} />
+                                    <ListItemText primary="Tax: 0%" sx={{color:"white", fontFamily:"PaytoneOne"}} />
                                 </ListItem>
                                 <ListItem>
                                     <ListItemIcon><CheckCircleIcon color="primary" /></ListItemIcon>
