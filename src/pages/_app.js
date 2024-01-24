@@ -101,7 +101,7 @@ export default function App({ Component, pageProps }) {
     contentLabel="Coomer Modal"
     shouldCloseOnOverlayClick={false} // Prevent modal from closing when clicking outside of it
 > 
-    <img
+    {/* <img
         src="/Assets/Animations/money.gif"
         style={{
         position: "absolute",
@@ -110,7 +110,7 @@ export default function App({ Component, pageProps }) {
         width: "100%",
         zIndex: 1, // Position the gif behind the other elements
         }}
-    />
+    /> */}
 
     <div style={{ 
         position: 'relative', 
